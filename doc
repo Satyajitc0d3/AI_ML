@@ -1,0 +1,28 @@
+NLTK - Natural language tool kit - python
+
+NLP - Natural language processing -  process to getting a computer to understand the natural language
+
+
+# installation
+
+ - pip install nltk
+
+ terminologies -
+
+ 1. Tokenizing -
+    > word tokenizerss - this separated by words
+    > sentence tokenizers - this separates by sentence
+
+ 2.corparas -
+    >the corpara is just a budy of text
+
+ 3.Lexicons -
+    > words and their meanings
+
+- Stop Words
+(a,the,an ) - those kind of word which you really don't care about.
+
+- Stemming
+stem of reading is 'read' - main stem of a word
+
+-speach tagging
