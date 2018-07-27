@@ -1,0 +1,3553 @@
+{
+        "geos": [
+            {
+                "name": "AMR",
+                "value": "AMR"
+            },
+            {
+                "name": "EMEA",
+                "value": "EMEA"
+            },
+            {
+                "name": "GC",
+                "value": "GC"
+            },
+            {
+                "name": "RPAC",
+                "value": "RPAC"
+            }
+        ],
+        "markets": [
+            {
+                "parentOrgId": "ARD01",
+                "name": "ARM0101: Silicon Valley Market",
+                "value": "ARM0101"
+            },
+            {
+                "parentOrgId": "ARD01",
+                "name": "ARM0104: Reno / Sacramento Market",
+                "value": "ARM0104"
+            },
+            {
+                "parentOrgId": "ARD01",
+                "name": "ARM0105: East Bay Market",
+                "value": "ARM0105"
+            },
+            {
+                "parentOrgId": "ARD01",
+                "name": "ARM0106: South Bay Market",
+                "value": "ARM0106"
+            },
+            {
+                "parentOrgId": "ARD01",
+                "name": "ARM0107: SF West Market",
+                "value": "ARM0107"
+            },
+            {
+                "parentOrgId": "ARD01",
+                "name": "ARM0108: Apple Union Square",
+                "value": "ARM0108"
+            },
+            {
+                "parentOrgId": "ARD01",
+                "name": "ARM0109: N. Washington / Alaska Market",
+                "value": "ARM0109"
+            },
+            {
+                "parentOrgId": "ARD01",
+                "name": "ARM0110: Oregon / Idaho Market",
+                "value": "ARM0110"
+            },
+            {
+                "parentOrgId": "ARD01",
+                "name": "ARM0111: Southern Washington Market",
+                "value": "ARM0111"
+            },
+            {
+                "parentOrgId": "ARD02",
+                "name": "ARM0201: Central Florida Market",
+                "value": "ARM0201"
+            },
+            {
+                "parentOrgId": "ARD02",
+                "name": "ARM0202: Western Florida Market",
+                "value": "ARM0202"
+            },
+            {
+                "parentOrgId": "ARD02",
+                "name": "ARM0203: Florida Gold Coast Market",
+                "value": "ARM0203"
+            },
+            {
+                "parentOrgId": "ARD02",
+                "name": "ARM0204: South Florida Market",
+                "value": "ARM0204"
+            },
+            {
+                "parentOrgId": "ARD02",
+                "name": "ARM0205: Central South Market",
+                "value": "ARM0205"
+            },
+            {
+                "parentOrgId": "ARD02",
+                "name": "ARM0206: Georgia East Market",
+                "value": "ARM0206"
+            },
+            {
+                "parentOrgId": "ARD03",
+                "name": "ARM0301: SE Boston/RI Market",
+                "value": "ARM0301"
+            },
+            {
+                "parentOrgId": "ARD03",
+                "name": "ARM0302: Boston Metro Market",
+                "value": "ARM0302"
+            },
+            {
+                "parentOrgId": "ARD03",
+                "name": "ARM0304: Lower New England Market",
+                "value": "ARM0304"
+            },
+            {
+                "parentOrgId": "ARD03",
+                "name": "ARM0305: Upper New England Market",
+                "value": "ARM0305"
+            },
+            {
+                "parentOrgId": "ARD03",
+                "name": "ARM0306: Boylston St.",
+                "value": "ARM0306"
+            },
+            {
+                "parentOrgId": "ARD03",
+                "name": "ARM0307: Southern New Jersey Market",
+                "value": "ARM0307"
+            },
+            {
+                "parentOrgId": "ARD03",
+                "name": "ARM0308: Northern NJ Market",
+                "value": "ARM0308"
+            },
+            {
+                "parentOrgId": "ARD03",
+                "name": "ARM0309: New Jersey Metro Market",
+                "value": "ARM0309"
+            },
+            {
+                "parentOrgId": "ARD03",
+                "name": "ARM0311: Central Massachusetts Market",
+                "value": "ARM0311"
+            },
+            {
+                "parentOrgId": "ARD04",
+                "name": "ARM0401: South AZ Market",
+                "value": "ARM0401"
+            },
+            {
+                "parentOrgId": "ARD04",
+                "name": "ARM0402: Southwest Texas Market",
+                "value": "ARM0402"
+            },
+            {
+                "parentOrgId": "ARD04",
+                "name": "ARM0403: Texarkoma Market",
+                "value": "ARM0403"
+            },
+            {
+                "parentOrgId": "ARD04",
+                "name": "ARM0404: Dallas Market",
+                "value": "ARM0404"
+            },
+            {
+                "parentOrgId": "ARD04",
+                "name": "ARM0405: Houston Metro Market",
+                "value": "ARM0405"
+            },
+            {
+                "parentOrgId": "ARD04",
+                "name": "ARM0408: Houston/Louisiana Market",
+                "value": "ARM0408"
+            },
+            {
+                "parentOrgId": "ARD04",
+                "name": "ARM0409: North AZ and NM Market",
+                "value": "ARM0409"
+            },
+            {
+                "parentOrgId": "ARD05",
+                "name": "ARM0501: Greater Philadelphia Market",
+                "value": "ARM0501"
+            },
+            {
+                "parentOrgId": "ARD05",
+                "name": "ARM0502: Carolinas Market",
+                "value": "ARM0502"
+            },
+            {
+                "parentOrgId": "ARD05",
+                "name": "ARM0504: DC Metro Market",
+                "value": "ARM0504"
+            },
+            {
+                "parentOrgId": "ARD05",
+                "name": "ARM0505: MD Market",
+                "value": "ARM0505"
+            },
+            {
+                "parentOrgId": "ARD05",
+                "name": "ARM0506: Northern Virginia Market",
+                "value": "ARM0506"
+            },
+            {
+                "parentOrgId": "ARD05",
+                "name": "ARM0508: Southern Mid-Atlantic Market",
+                "value": "ARM0508"
+            },
+            {
+                "parentOrgId": "ARD05",
+                "name": "ARM0512: Southern Virginia Market",
+                "value": "ARM0512"
+            },
+            {
+                "parentOrgId": "ARD06",
+                "name": "ARM0601: Toronto East Market",
+                "value": "ARM0601"
+            },
+            {
+                "parentOrgId": "ARD06",
+                "name": "ARM0602: Montreal Northeast / Ottawa",
+                "value": "ARM0602"
+            },
+            {
+                "parentOrgId": "ARD06",
+                "name": "ARM0603: Vancouver Market",
+                "value": "ARM0603"
+            },
+            {
+                "parentOrgId": "ARD06",
+                "name": "ARM0604: Calgary /Lower Mainland Market",
+                "value": "ARM0604"
+            },
+            {
+                "parentOrgId": "ARD06",
+                "name": "ARM0605: Toronto West Market",
+                "value": "ARM0605"
+            },
+            {
+                "parentOrgId": "ARD06",
+                "name": "ARM0606: Prairies Market",
+                "value": "ARM0606"
+            },
+            {
+                "parentOrgId": "ARD06",
+                "name": "ARM0607: Southwestern Ontario Market",
+                "value": "ARM0607"
+            },
+            {
+                "parentOrgId": "ARD06",
+                "name": "ARM0609: Greater Quebec / Halifax",
+                "value": "ARM0609"
+            },
+            {
+                "parentOrgId": "ARD07",
+                "name": "ARM0701: Pittsburgh / Cleveland Market",
+                "value": "ARM0701"
+            },
+            {
+                "parentOrgId": "ARD07",
+                "name": "ARM0702: E. Michigan Market",
+                "value": "ARM0702"
+            },
+            {
+                "parentOrgId": "ARD07",
+                "name": "ARM0703: S. Ohio/TN/KY Market",
+                "value": "ARM0703"
+            },
+            {
+                "parentOrgId": "ARD07",
+                "name": "ARM0704: Tennessee/N. Alabama Market",
+                "value": "ARM0704"
+            },
+            {
+                "parentOrgId": "ARD07",
+                "name": "ARM0705: IN / MI / KY Market",
+                "value": "ARM0705"
+            },
+            {
+                "parentOrgId": "ARD07",
+                "name": "ARM0706: Central Ohio Market",
+                "value": "ARM0706"
+            },
+            {
+                "parentOrgId": "ARD07",
+                "name": "ARM0707: Upstate NY Market",
+                "value": "ARM0707"
+            },
+            {
+                "parentOrgId": "ARD08",
+                "name": "ARM0801: Macau Market",
+                "value": "ARM0801"
+            },
+            {
+                "parentOrgId": "ARD09",
+                "name": "ARM0901: Central Coast Market",
+                "value": "ARM0901"
+            },
+            {
+                "parentOrgId": "ARD09",
+                "name": "ARM0902: North LA Market",
+                "value": "ARM0902"
+            },
+            {
+                "parentOrgId": "ARD09",
+                "name": "ARM0903: Mid City LA Market",
+                "value": "ARM0903"
+            },
+            {
+                "parentOrgId": "ARD09",
+                "name": "ARM0904: North San Diego Market",
+                "value": "ARM0904"
+            },
+            {
+                "parentOrgId": "ARD09",
+                "name": "ARM0905: San Gabriel Valley Market",
+                "value": "ARM0905"
+            },
+            {
+                "parentOrgId": "ARD09",
+                "name": "ARM0906: Orange County Market",
+                "value": "ARM0906"
+            },
+            {
+                "parentOrgId": "ARD09",
+                "name": "ARM0907: San Diego Market",
+                "value": "ARM0907"
+            },
+            {
+                "parentOrgId": "ARD09",
+                "name": "ARM0908: Hawaii Market",
+                "value": "ARM0908"
+            },
+            {
+                "parentOrgId": "ARD09",
+                "name": "ARM0909: West LA Market",
+                "value": "ARM0909"
+            },
+            {
+                "parentOrgId": "ARD10",
+                "name": "ARM1001: Japan Market",
+                "value": "ARM1001"
+            },
+            {
+                "parentOrgId": "ARD11",
+                "name": "ARM1101: Singapore Market",
+                "value": "ARM1101"
+            },
+            {
+                "parentOrgId": "ARD12",
+                "name": "ARM1201: Hong Kong Market",
+                "value": "ARM1201"
+            },
+            {
+                "parentOrgId": "ARD13",
+                "name": "ARM1301: Victoria Market",
+                "value": "ARM1301"
+            },
+            {
+                "parentOrgId": "ARD13",
+                "name": "ARM1302: South New South Wales Market",
+                "value": "ARM1302"
+            },
+            {
+                "parentOrgId": "ARD13",
+                "name": "ARM1303: North New South Wales Market",
+                "value": "ARM1303"
+            },
+            {
+                "parentOrgId": "ARD13",
+                "name": "ARM1304: Queensland Market",
+                "value": "ARM1304"
+            },
+            {
+                "parentOrgId": "ARD13",
+                "name": "ARM1305: Sydney George St. Market",
+                "value": "ARM1305"
+            },
+            {
+                "parentOrgId": "ARD13",
+                "name": "ARM1306: West and South Aus Market",
+                "value": "ARM1306"
+            },
+            {
+                "parentOrgId": "ARD14",
+                "name": "ARM1401: Beijing Market",
+                "value": "ARM1401"
+            },
+            {
+                "parentOrgId": "ARD14",
+                "name": "ARM1402: Sanlitun Market",
+                "value": "ARM1402"
+            },
+            {
+                "parentOrgId": "ARD14",
+                "name": "ARM1403: Xidan Joy City Market",
+                "value": "ARM1403"
+            },
+            {
+                "parentOrgId": "ARD14",
+                "name": "ARM1404: North Central Market",
+                "value": "ARM1404"
+            },
+            {
+                "parentOrgId": "ARD14",
+                "name": "ARM1405: Northeast Market",
+                "value": "ARM1405"
+            },
+            {
+                "parentOrgId": "ARD14",
+                "name": "ARM1406: Tianjin Market",
+                "value": "ARM1406"
+            },
+            {
+                "parentOrgId": "ARD15",
+                "name": "ARM1501: Northwest UK Market",
+                "value": "ARM1501"
+            },
+            {
+                "parentOrgId": "ARD15",
+                "name": "ARM1502: Midlands UK Market",
+                "value": "ARM1502"
+            },
+            {
+                "parentOrgId": "ARD15",
+                "name": "ARM1504: Scotland Market",
+                "value": "ARM1504"
+            },
+            {
+                "parentOrgId": "ARD15",
+                "name": "ARM1510: East Anglia Market",
+                "value": "ARM1510"
+            },
+            {
+                "parentOrgId": "ARD15",
+                "name": "ARM1511: Northeast UK Market",
+                "value": "ARM1511"
+            },
+            {
+                "parentOrgId": "ARD16",
+                "name": "ARM1601: Paris 1 Market",
+                "value": "ARM1601"
+            },
+            {
+                "parentOrgId": "ARD16",
+                "name": "ARM1602: South France Market",
+                "value": "ARM1602"
+            },
+            {
+                "parentOrgId": "ARD16",
+                "name": "ARM1603: Louvre Market",
+                "value": "ARM1603"
+            },
+            {
+                "parentOrgId": "ARD16",
+                "name": "ARM1604: Opera Market",
+                "value": "ARM1604"
+            },
+            {
+                "parentOrgId": "ARD16",
+                "name": "ARM1605: Paris 2 Market",
+                "value": "ARM1605"
+            },
+            {
+                "parentOrgId": "ARD16",
+                "name": "ARM1606: Centre Est Market",
+                "value": "ARM1606"
+            },
+            {
+                "parentOrgId": "ARD16",
+                "name": "ARM1607: Apple Watch at Galeries Lafaye",
+                "value": "ARM1607"
+            },
+            {
+                "parentOrgId": "ARD17",
+                "name": "ARM1701: Italy South Market",
+                "value": "ARM1701"
+            },
+            {
+                "parentOrgId": "ARD17",
+                "name": "ARM1702: Italy North East Market",
+                "value": "ARM1702"
+            },
+            {
+                "parentOrgId": "ARD17",
+                "name": "ARM1703: Italy North West Market",
+                "value": "ARM1703"
+            },
+            {
+                "parentOrgId": "ARD17",
+                "name": "ARM1704: Italy Central Market",
+                "value": "ARM1704"
+            },
+            {
+                "parentOrgId": "ARD18",
+                "name": "ARM1801: South Germany Market",
+                "value": "ARM1801"
+            },
+            {
+                "parentOrgId": "ARD18",
+                "name": "ARM1802: North Germany Market",
+                "value": "ARM1802"
+            },
+            {
+                "parentOrgId": "ARD18",
+                "name": "ARM1803: West Germany Market",
+                "value": "ARM1803"
+            },
+            {
+                "parentOrgId": "ARD18",
+                "name": "ARM1804: East Germany Market",
+                "value": "ARM1804"
+            },
+            {
+                "parentOrgId": "ARD19",
+                "name": "ARM1902: Netherlands Market",
+                "value": "ARM1902"
+            },
+            {
+                "parentOrgId": "ARD20",
+                "name": "ARM2001: Switzerland Market",
+                "value": "ARM2001"
+            },
+            {
+                "parentOrgId": "ARD21",
+                "name": "ARM2103: Long Island Market",
+                "value": "ARM2103"
+            },
+            {
+                "parentOrgId": "ARD21",
+                "name": "ARM2104: Westchester Market",
+                "value": "ARM2104"
+            },
+            {
+                "parentOrgId": "ARD21",
+                "name": "ARM2105: West 14th St.",
+                "value": "ARM2105"
+            },
+            {
+                "parentOrgId": "ARD21",
+                "name": "ARM2106: SoHo",
+                "value": "ARM2106"
+            },
+            {
+                "parentOrgId": "ARD21",
+                "name": "ARM2107: Fifth Avenue",
+                "value": "ARM2107"
+            },
+            {
+                "parentOrgId": "ARD21",
+                "name": "ARM2108: Upper West Side",
+                "value": "ARM2108"
+            },
+            {
+                "parentOrgId": "ARD21",
+                "name": "ARM2109: Grand Central Station",
+                "value": "ARM2109"
+            },
+            {
+                "parentOrgId": "ARD21",
+                "name": "ARM2110: Upper East Side Market",
+                "value": "ARM2110"
+            },
+            {
+                "parentOrgId": "ARD21",
+                "name": "ARM2111: Brooklyn Market",
+                "value": "ARM2111"
+            },
+            {
+                "parentOrgId": "ARD21",
+                "name": "ARM2112: Downtown Manhattan Market",
+                "value": "ARM2112"
+            },
+            {
+                "parentOrgId": "ARD22",
+                "name": "ARM2201: Twin Cities Market",
+                "value": "ARM2201"
+            },
+            {
+                "parentOrgId": "ARD22",
+                "name": "ARM2202: Southern Chicago Market",
+                "value": "ARM2202"
+            },
+            {
+                "parentOrgId": "ARD22",
+                "name": "ARM2203: Northern Chicago Market",
+                "value": "ARM2203"
+            },
+            {
+                "parentOrgId": "ARD22",
+                "name": "ARM2204: North Michigan Avenue",
+                "value": "ARM2204"
+            },
+            {
+                "parentOrgId": "ARD22",
+                "name": "ARM2205: Wisconsin / St. Louis Market",
+                "value": "ARM2205"
+            },
+            {
+                "parentOrgId": "ARD22",
+                "name": "ARM2206: Southern Great Plains Market",
+                "value": "ARM2206"
+            },
+            {
+                "parentOrgId": "ARD22",
+                "name": "ARM2207: Utah Market",
+                "value": "ARM2207"
+            },
+            {
+                "parentOrgId": "ARD22",
+                "name": "ARM2208: Colorado North Market",
+                "value": "ARM2208"
+            },
+            {
+                "parentOrgId": "ARD22",
+                "name": "ARM2209: Colorado South Market",
+                "value": "ARM2209"
+            },
+            {
+                "parentOrgId": "ARD22",
+                "name": "ARM2210: Vegas Market",
+                "value": "ARM2210"
+            },
+            {
+                "parentOrgId": "ARD23",
+                "name": "ARM2301: Southeast UK Market",
+                "value": "ARM2301"
+            },
+            {
+                "parentOrgId": "ARD23",
+                "name": "ARM2302: South UK Market",
+                "value": "ARM2302"
+            },
+            {
+                "parentOrgId": "ARD23",
+                "name": "ARM2303: Southwest UK Market",
+                "value": "ARM2303"
+            },
+            {
+                "parentOrgId": "ARD23",
+                "name": "ARM2304: Regent Street",
+                "value": "ARM2304"
+            },
+            {
+                "parentOrgId": "ARD23",
+                "name": "ARM2305: Covent Garden",
+                "value": "ARM2305"
+            },
+            {
+                "parentOrgId": "ARD23",
+                "name": "ARM2306: Central London",
+                "value": "ARM2306"
+            },
+            {
+                "parentOrgId": "ARD23",
+                "name": "ARM2307: Apple Watch at Selfridges",
+                "value": "ARM2307"
+            },
+            {
+                "parentOrgId": "ARD24",
+                "name": "ARM2401: Shanghai-Puxi Market",
+                "value": "ARM2401"
+            },
+            {
+                "parentOrgId": "ARD24",
+                "name": "ARM2402: Shanghai-Pudong Market",
+                "value": "ARM2402"
+            },
+            {
+                "parentOrgId": "ARD24",
+                "name": "ARM2403: Nanjing East Market",
+                "value": "ARM2403"
+            },
+            {
+                "parentOrgId": "ARD24",
+                "name": "ARM2404: Jiangsu Market",
+                "value": "ARM2404"
+            },
+            {
+                "parentOrgId": "ARD24",
+                "name": "ARM2405: Zhejiang Market",
+                "value": "ARM2405"
+            },
+            {
+                "parentOrgId": "ARD24",
+                "name": "ARM2406: Greater Shanghai Market",
+                "value": "ARM2406"
+            },
+            {
+                "parentOrgId": "ARD25",
+                "name": "ARM2501: Barcelona Market",
+                "value": "ARM2501"
+            },
+            {
+                "parentOrgId": "ARD25",
+                "name": "ARM2502: East Spain Market",
+                "value": "ARM2502"
+            },
+            {
+                "parentOrgId": "ARD25",
+                "name": "ARM2503: West Spain Market",
+                "value": "ARM2503"
+            },
+            {
+                "parentOrgId": "ARD25",
+                "name": "ARM2504: Puerta Del Sol Market",
+                "value": "ARM2504"
+            },
+            {
+                "parentOrgId": "ARD26",
+                "name": "ARM2601: Belgium Market",
+                "value": "ARM2601"
+            },
+            {
+                "parentOrgId": "ARD27",
+                "name": "ARM2701: Sweden Market",
+                "value": "ARM2701"
+            },
+            {
+                "parentOrgId": "ARD28",
+                "name": "ARM2801: Brazil Market",
+                "value": "ARM2801"
+            },
+            {
+                "parentOrgId": "ARD29",
+                "name": "ARM2901: Turkey Market",
+                "value": "ARM2901"
+            },
+            {
+                "parentOrgId": "ARD30",
+                "name": "ARM3001: UAE Markets",
+                "value": "ARM3001"
+            },
+            {
+                "parentOrgId": "ARD31",
+                "name": "ARM3101: Mexico Market",
+                "value": "ARM3101"
+            },
+            {
+                "parentOrgId": "ARD33",
+                "name": "ARM3301: Snap Market",
+                "value": "ARM3301"
+            },
+            {
+                "parentOrgId": "ARD34",
+                "name": "ARM3401: Chengdu Market",
+                "value": "ARM3401"
+            },
+            {
+                "parentOrgId": "ARD34",
+                "name": "ARM3402: SouthCentral Market",
+                "value": "ARM3402"
+            },
+            {
+                "parentOrgId": "ARD34",
+                "name": "ARM3403: Chongqing Market",
+                "value": "ARM3403"
+            },
+            {
+                "parentOrgId": "ARD34",
+                "name": "ARM3404: SouthEast Market",
+                "value": "ARM3404"
+            },
+            {
+                "parentOrgId": "ARD38",
+                "name": "ARM3801: Deer Market",
+                "value": "ARM3801"
+            },
+            {
+                "parentOrgId": "ARD86",
+                "name": "ARM8601: East China Phoenix Market",
+                "value": "ARM8601"
+            }
+        ],
+        "stores": [
+            {
+                "parentOrgId": "ARM0902",
+                "name": "R001: Glendale Galleria",
+                "value": "R001"
+            },
+            {
+                "parentOrgId": "ARM0101",
+                "name": "R002: Palo Alto",
+                "value": "R002"
+            },
+            {
+                "parentOrgId": "ARM0109",
+                "name": "R003: Bellevue Square",
+                "value": "R003"
+            },
+            {
+                "parentOrgId": "ARM0906",
+                "name": "R004: South Coast Plaza",
+                "value": "R004"
+            },
+            {
+                "parentOrgId": "ARM1001",
+                "name": "R005: Nagoya Sakae",
+                "value": "R005"
+            },
+            {
+                "parentOrgId": "ARM0206",
+                "name": "R006: Lenox Square",
+                "value": "R006"
+            },
+            {
+                "parentOrgId": "ARM2201",
+                "name": "R007: Mall of America",
+                "value": "R007"
+            },
+            {
+                "parentOrgId": "ARM0404",
+                "name": "R008: Willow Bend",
+                "value": "R008"
+            },
+            {
+                "parentOrgId": "ARM0706",
+                "name": "R009: Easton Town Center",
+                "value": "R009"
+            },
+            {
+                "parentOrgId": "ARM0506",
+                "name": "R010: Tysons Corner",
+                "value": "R010"
+            },
+            {
+                "parentOrgId": "ARM0305",
+                "name": "R011: Northshore",
+                "value": "R011"
+            },
+            {
+                "parentOrgId": "ARM0204",
+                "name": "R012: The Falls",
+                "value": "R012"
+            },
+            {
+                "parentOrgId": "ARM0308",
+                "name": "R013: Tice's Corner",
+                "value": "R013"
+            },
+            {
+                "parentOrgId": "ARM0105",
+                "name": "R014: Walnut Creek",
+                "value": "R014"
+            },
+            {
+                "parentOrgId": "ARM0906",
+                "name": "R015: Fashion Island",
+                "value": "R015"
+            },
+            {
+                "parentOrgId": "ARM0707",
+                "name": "R016: Walden Galleria",
+                "value": "R016"
+            },
+            {
+                "parentOrgId": "ARM0707",
+                "name": "R017: Crossgates",
+                "value": "R017"
+            },
+            {
+                "parentOrgId": "ARM2203",
+                "name": "R018: Woodfield",
+                "value": "R018"
+            },
+            {
+                "parentOrgId": "ARM0202",
+                "name": "R019: International Plaza",
+                "value": "R019"
+            },
+            {
+                "parentOrgId": "ARM0704",
+                "name": "R020: Saddle Creek",
+                "value": "R020"
+            },
+            {
+                "parentOrgId": "ARM0302",
+                "name": "R021: CambridgeSide",
+                "value": "R021"
+            },
+            {
+                "parentOrgId": "ARM2201",
+                "name": "R022: Rosedale Center",
+                "value": "R022"
+            },
+            {
+                "parentOrgId": "ARM0909",
+                "name": "R023: Northridge",
+                "value": "R023"
+            },
+            {
+                "parentOrgId": "ARM0203",
+                "name": "R024: Wellington Green",
+                "value": "R024"
+            },
+            {
+                "parentOrgId": "ARM0304",
+                "name": "R025: Westfarms",
+                "value": "R025"
+            },
+            {
+                "parentOrgId": "ARM0401",
+                "name": "R026: Chandler Fashion Center",
+                "value": "R026"
+            },
+            {
+                "parentOrgId": "ARM0305",
+                "name": "R027: Rockingham Park",
+                "value": "R027"
+            },
+            {
+                "parentOrgId": "ARM0703",
+                "name": "R028: Kenwood Towne Centre",
+                "value": "R028"
+            },
+            {
+                "parentOrgId": "ARM0107",
+                "name": "R029: Burlingame",
+                "value": "R029"
+            },
+            {
+                "parentOrgId": "ARM2209",
+                "name": "R030: Aspen Grove",
+                "value": "R030"
+            },
+            {
+                "parentOrgId": "ARM0409",
+                "name": "R031: Biltmore",
+                "value": "R031"
+            },
+            {
+                "parentOrgId": "ARM2106",
+                "name": "R032: SoHo",
+                "value": "R032"
+            },
+            {
+                "parentOrgId": "ARM0107",
+                "name": "R033: Stonestown",
+                "value": "R033"
+            },
+            {
+                "parentOrgId": "ARM0905",
+                "name": "R034: Pasadena",
+                "value": "R034"
+            },
+            {
+                "parentOrgId": "ARM2204",
+                "name": "R035: North Michigan Avenue",
+                "value": "R035"
+            },
+            {
+                "parentOrgId": "ARM0504",
+                "name": "R036: Clarendon",
+                "value": "R036"
+            },
+            {
+                "parentOrgId": "ARM1701",
+                "name": "R038: RomaEst",
+                "value": "R038"
+            },
+            {
+                "parentOrgId": "ARM0101",
+                "name": "R039: Valley Fair",
+                "value": "R039"
+            },
+            {
+                "parentOrgId": "ARM0907",
+                "name": "R040: Fashion Valley",
+                "value": "R040"
+            },
+            {
+                "parentOrgId": "ARM0702",
+                "name": "R041: Twelve Oaks",
+                "value": "R041"
+            },
+            {
+                "parentOrgId": "ARM0404",
+                "name": "R042: Knox Street",
+                "value": "R042"
+            },
+            {
+                "parentOrgId": "ARM0309",
+                "name": "R043: Short Hills",
+                "value": "R043"
+            },
+            {
+                "parentOrgId": "ARM0105",
+                "name": "R044: Santa Rosa Plaza",
+                "value": "R044"
+            },
+            {
+                "parentOrgId": "ARM1801",
+                "name": "R045: Rosenstrasse",
+                "value": "R045"
+            },
+            {
+                "parentOrgId": "ARM0308",
+                "name": "R046: Nanuet",
+                "value": "R046"
+            },
+            {
+                "parentOrgId": "ARM2208",
+                "name": "R047: Cherry Creek",
+                "value": "R047"
+            },
+            {
+                "parentOrgId": "ARM1001",
+                "name": "R048: Fukuoka Tenjin",
+                "value": "R048"
+            },
+            {
+                "parentOrgId": "ARM0502",
+                "name": "R049: Southpoint",
+                "value": "R049"
+            },
+            {
+                "parentOrgId": "ARM0903",
+                "name": "R050: The Grove",
+                "value": "R050"
+            },
+            {
+                "parentOrgId": "ARM0903",
+                "name": "R051: Third Street Promenade",
+                "value": "R051"
+            },
+            {
+                "parentOrgId": "ARM0101",
+                "name": "R052: Infinite Loop",
+                "value": "R052"
+            },
+            {
+                "parentOrgId": "ARM0201",
+                "name": "R053: Millenia",
+                "value": "R053"
+            },
+            {
+                "parentOrgId": "ARM2201",
+                "name": "R054: Southdale",
+                "value": "R054"
+            },
+            {
+                "parentOrgId": "ARM0702",
+                "name": "R055: Somerset",
+                "value": "R055"
+            },
+            {
+                "parentOrgId": "ARM2202",
+                "name": "R056: Oakbrook",
+                "value": "R056"
+            },
+            {
+                "parentOrgId": "ARM0105",
+                "name": "R057: Bay Street",
+                "value": "R057"
+            },
+            {
+                "parentOrgId": "ARM0405",
+                "name": "R058: Houston Galleria",
+                "value": "R058"
+            },
+            {
+                "parentOrgId": "ARM2205",
+                "name": "R059: Mayfair",
+                "value": "R059"
+            },
+            {
+                "parentOrgId": "ARM2103",
+                "name": "R060: Roosevelt Field",
+                "value": "R060"
+            },
+            {
+                "parentOrgId": "ARM2104",
+                "name": "R061: The Westchester",
+                "value": "R061"
+            },
+            {
+                "parentOrgId": "ARM2205",
+                "name": "R062: West County",
+                "value": "R062"
+            },
+            {
+                "parentOrgId": "ARM0505",
+                "name": "R063: Towson Town Center",
+                "value": "R063"
+            },
+            {
+                "parentOrgId": "ARM2210",
+                "name": "R064: Fashion Show",
+                "value": "R064"
+            },
+            {
+                "parentOrgId": "ARM0501",
+                "name": "R065: King of Prussia",
+                "value": "R065"
+            },
+            {
+                "parentOrgId": "ARM0705",
+                "name": "R066: The Fashion Mall at Keystone",
+                "value": "R066"
+            },
+            {
+                "parentOrgId": "ARM0309",
+                "name": "R067: Menlo Park",
+                "value": "R067"
+            },
+            {
+                "parentOrgId": "ARM2103",
+                "name": "R068: Walt Whitman",
+                "value": "R068"
+            },
+            {
+                "parentOrgId": "ARM0904",
+                "name": "R069: Mission Viejo",
+                "value": "R069"
+            },
+            {
+                "parentOrgId": "ARM0104",
+                "name": "R070: Arden Fair",
+                "value": "R070"
+            },
+            {
+                "parentOrgId": "ARM0107",
+                "name": "R071: Corte Madera",
+                "value": "R071"
+            },
+            {
+                "parentOrgId": "ARM0109",
+                "name": "R072: University Village",
+                "value": "R072"
+            },
+            {
+                "parentOrgId": "ARM0908",
+                "name": "R073: Ala Moana",
+                "value": "R073"
+            },
+            {
+                "parentOrgId": "ARM0203",
+                "name": "R074: Boca Raton",
+                "value": "R074"
+            },
+            {
+                "parentOrgId": "ARM0108",
+                "name": "R075: Apple Union Square",
+                "value": "R075"
+            },
+            {
+                "parentOrgId": "ARM0302",
+                "name": "R076: Chestnut Hill",
+                "value": "R076"
+            },
+            {
+                "parentOrgId": "ARM0110",
+                "name": "R077: Pioneer Place",
+                "value": "R077"
+            },
+            {
+                "parentOrgId": "ARM0512",
+                "name": "R078: Short Pump Town Center",
+                "value": "R078"
+            },
+            {
+                "parentOrgId": "ARM1001",
+                "name": "R079: Ginza",
+                "value": "R079"
+            },
+            {
+                "parentOrgId": "ARM0206",
+                "name": "R080: North Point",
+                "value": "R080"
+            },
+            {
+                "parentOrgId": "ARM0701",
+                "name": "R081: Eton",
+                "value": "R081"
+            },
+            {
+                "parentOrgId": "ARM0907",
+                "name": "R082: UTC",
+                "value": "R082"
+            },
+            {
+                "parentOrgId": "ARM0508",
+                "name": "R083: SouthPark",
+                "value": "R083"
+            },
+            {
+                "parentOrgId": "ARM0504",
+                "name": "R084: Montgomery Mall",
+                "value": "R084"
+            },
+            {
+                "parentOrgId": "ARM0402",
+                "name": "R085: Barton Creek",
+                "value": "R085"
+            },
+            {
+                "parentOrgId": "ARM0401",
+                "name": "R086: La Encantada",
+                "value": "R086"
+            },
+            {
+                "parentOrgId": "ARM0204",
+                "name": "R087: Aventura",
+                "value": "R087"
+            },
+            {
+                "parentOrgId": "ARM0307",
+                "name": "R088: Sagemore",
+                "value": "R088"
+            },
+            {
+                "parentOrgId": "ARM2203",
+                "name": "R089: Old Orchard",
+                "value": "R089"
+            },
+            {
+                "parentOrgId": "ARM0110",
+                "name": "R090: Washington Square",
+                "value": "R090"
+            },
+            {
+                "parentOrgId": "ARM1001",
+                "name": "R091: Shinsaibashi",
+                "value": "R091"
+            },
+            {
+                "parentOrgId": "ARM2304",
+                "name": "R092: Regent Street",
+                "value": "R092"
+            },
+            {
+                "parentOrgId": "ARM0304",
+                "name": "R093: Danbury Fair Mall",
+                "value": "R093"
+            },
+            {
+                "parentOrgId": "ARM0905",
+                "name": "R094: Victoria Gardens",
+                "value": "R094"
+            },
+            {
+                "parentOrgId": "ARM2107",
+                "name": "R095: Fifth Avenue",
+                "value": "R095"
+            },
+            {
+                "parentOrgId": "ARM0701",
+                "name": "R096: Shadyside",
+                "value": "R096"
+            },
+            {
+                "parentOrgId": "ARM2206",
+                "name": "R097: Country Club Plaza",
+                "value": "R097"
+            },
+            {
+                "parentOrgId": "ARM0101",
+                "name": "R099: Stanford Shopping Center",
+                "value": "R099"
+            },
+            {
+                "parentOrgId": "ARM0109",
+                "name": "R100: Alderwood Mall",
+                "value": "R100"
+            },
+            {
+                "parentOrgId": "ARM0105",
+                "name": "R101: Stoneridge Mall",
+                "value": "R101"
+            },
+            {
+                "parentOrgId": "ARM0501",
+                "name": "R102: Christiana Mall",
+                "value": "R102"
+            },
+            {
+                "parentOrgId": "ARM0308",
+                "name": "R103: Rockaway",
+                "value": "R103"
+            },
+            {
+                "parentOrgId": "ARM0309",
+                "name": "R104: Bridgewater",
+                "value": "R104"
+            },
+            {
+                "parentOrgId": "ARM0106",
+                "name": "R105: Oakridge",
+                "value": "R105"
+            },
+            {
+                "parentOrgId": "ARM0111",
+                "name": "R106: Southcenter",
+                "value": "R106"
+            },
+            {
+                "parentOrgId": "ARM0707",
+                "name": "R107: Syracuse",
+                "value": "R107"
+            },
+            {
+                "parentOrgId": "ARM0909",
+                "name": "R108: Century City",
+                "value": "R108"
+            },
+            {
+                "parentOrgId": "ARM2206",
+                "name": "R109: Jordan Creek",
+                "value": "R109"
+            },
+            {
+                "parentOrgId": "ARM0301",
+                "name": "R110: South Shore",
+                "value": "R110"
+            },
+            {
+                "parentOrgId": "ARM0201",
+                "name": "R111: St. Johns Town Center",
+                "value": "R111"
+            },
+            {
+                "parentOrgId": "ARM0504",
+                "name": "R112: Bethesda Row",
+                "value": "R112"
+            },
+            {
+                "parentOrgId": "ARM2301",
+                "name": "R113: Bluewater",
+                "value": "R113"
+            },
+            {
+                "parentOrgId": "ARM2205",
+                "name": "R114: Saint Louis Galleria",
+                "value": "R114"
+            },
+            {
+                "parentOrgId": "ARM0204",
+                "name": "R115: Lincoln Road",
+                "value": "R115"
+            },
+            {
+                "parentOrgId": "ARM0502",
+                "name": "R116: Crabtree Valley Mall",
+                "value": "R116"
+            },
+            {
+                "parentOrgId": "ARM0308",
+                "name": "R117: Garden State Plaza",
+                "value": "R117"
+            },
+            {
+                "parentOrgId": "ARM1502",
+                "name": "R118: Birmingham",
+                "value": "R118"
+            },
+            {
+                "parentOrgId": "ARM1001",
+                "name": "R119: Shibuya",
+                "value": "R119"
+            },
+            {
+                "parentOrgId": "ARM0601",
+                "name": "R120: Yorkdale",
+                "value": "R120"
+            },
+            {
+                "parentOrgId": "ARM0605",
+                "name": "R121: Eaton Centre",
+                "value": "R121"
+            },
+            {
+                "parentOrgId": "ARM0906",
+                "name": "R122: Manhattan Village",
+                "value": "R122"
+            },
+            {
+                "parentOrgId": "ARM0704",
+                "name": "R123: Green Hills",
+                "value": "R123"
+            },
+            {
+                "parentOrgId": "ARM0903",
+                "name": "R124: Beverly Center",
+                "value": "R124"
+            },
+            {
+                "parentOrgId": "ARM2207",
+                "name": "R125: City Creek Center",
+                "value": "R125"
+            },
+            {
+                "parentOrgId": "ARM0408",
+                "name": "R126: The Woodlands",
+                "value": "R126"
+            },
+            {
+                "parentOrgId": "ARM0203",
+                "name": "R127: The Gardens Mall",
+                "value": "R127"
+            },
+            {
+                "parentOrgId": "ARM0504",
+                "name": "R129: Pentagon City",
+                "value": "R129"
+            },
+            {
+                "parentOrgId": "ARM0403",
+                "name": "R130: Penn Square",
+                "value": "R130"
+            },
+            {
+                "parentOrgId": "ARM0402",
+                "name": "R131: La Cantera",
+                "value": "R131"
+            },
+            {
+                "parentOrgId": "ARM0705",
+                "name": "R132: Woodland",
+                "value": "R132"
+            },
+            {
+                "parentOrgId": "ARM0110",
+                "name": "R134: Bridgeport Village",
+                "value": "R134"
+            },
+            {
+                "parentOrgId": "ARM1504",
+                "name": "R135: Buchanan Street",
+                "value": "R135"
+            },
+            {
+                "parentOrgId": "ARM1501",
+                "name": "R136: Trafford Centre",
+                "value": "R136"
+            },
+            {
+                "parentOrgId": "ARM0301",
+                "name": "R137: Derby Street",
+                "value": "R137"
+            },
+            {
+                "parentOrgId": "ARM0307",
+                "name": "R138: Freehold Raceway Mall",
+                "value": "R138"
+            },
+            {
+                "parentOrgId": "ARM2103",
+                "name": "R139: Smith Haven",
+                "value": "R139"
+            },
+            {
+                "parentOrgId": "ARM0707",
+                "name": "R140: Eastview",
+                "value": "R140"
+            },
+            {
+                "parentOrgId": "ARM2203",
+                "name": "R141: Northbrook",
+                "value": "R141"
+            },
+            {
+                "parentOrgId": "ARM0505",
+                "name": "R142: Annapolis",
+                "value": "R142"
+            },
+            {
+                "parentOrgId": "ARM0201",
+                "name": "R143: Florida Mall",
+                "value": "R143"
+            },
+            {
+                "parentOrgId": "ARM0404",
+                "name": "R144: NorthPark Center",
+                "value": "R144"
+            },
+            {
+                "parentOrgId": "ARM0904",
+                "name": "R146: Irvine Spectrum Center",
+                "value": "R146"
+            },
+            {
+                "parentOrgId": "ARM0701",
+                "name": "R147: South Hills Village",
+                "value": "R147"
+            },
+            {
+                "parentOrgId": "ARM0902",
+                "name": "R148: Sherman Oaks",
+                "value": "R148"
+            },
+            {
+                "parentOrgId": "ARM0306",
+                "name": "R149: Boylston Street",
+                "value": "R149"
+            },
+            {
+                "parentOrgId": "ARM1001",
+                "name": "R150: Sendai Ichibancho",
+                "value": "R150"
+            },
+            {
+                "parentOrgId": "ARM0403",
+                "name": "R151: Southlake Town Square",
+                "value": "R151"
+            },
+            {
+                "parentOrgId": "ARM0309",
+                "name": "R152: Staten Island",
+                "value": "R152"
+            },
+            {
+                "parentOrgId": "ARM1511",
+                "name": "R153: Meadowhall",
+                "value": "R153"
+            },
+            {
+                "parentOrgId": "ARM0901",
+                "name": "R154: The Oaks",
+                "value": "R154"
+            },
+            {
+                "parentOrgId": "ARM0302",
+                "name": "R155: Burlington",
+                "value": "R155"
+            },
+            {
+                "parentOrgId": "ARM0905",
+                "name": "R156: Brea Mall",
+                "value": "R156"
+            },
+            {
+                "parentOrgId": "ARM2001",
+                "name": "R159: Bahnhofstrasse",
+                "value": "R159"
+            },
+            {
+                "parentOrgId": "ARM2210",
+                "name": "R161: The Forum Shops",
+                "value": "R161"
+            },
+            {
+                "parentOrgId": "ARM0501",
+                "name": "R162: Walnut Street",
+                "value": "R162"
+            },
+            {
+                "parentOrgId": "ARM2306",
+                "name": "R163: Brent Cross",
+                "value": "R163"
+            },
+            {
+                "parentOrgId": "ARM0405",
+                "name": "R164: Memorial City",
+                "value": "R164"
+            },
+            {
+                "parentOrgId": "ARM0501",
+                "name": "R166: Suburban Square",
+                "value": "R166"
+            },
+            {
+                "parentOrgId": "ARM0301",
+                "name": "R167: Providence Place",
+                "value": "R167"
+            },
+            {
+                "parentOrgId": "ARM0505",
+                "name": "R168: Columbia",
+                "value": "R168"
+            },
+            {
+                "parentOrgId": "ARM0202",
+                "name": "R169: Waterside Shops",
+                "value": "R169"
+            },
+            {
+                "parentOrgId": "ARM0901",
+                "name": "R171: Simi Valley",
+                "value": "R171"
+            },
+            {
+                "parentOrgId": "ARM2208",
+                "name": "R172: Twenty Ninth Street",
+                "value": "R172"
+            },
+            {
+                "parentOrgId": "ARM0307",
+                "name": "R173: The Pier",
+                "value": "R173"
+            },
+            {
+                "parentOrgId": "ARM2302",
+                "name": "R174: WestQuay",
+                "value": "R174"
+            },
+            {
+                "parentOrgId": "ARM2302",
+                "name": "R176: The Oracle",
+                "value": "R176"
+            },
+            {
+                "parentOrgId": "ARM0409",
+                "name": "R177: ABQ Uptown",
+                "value": "R177"
+            },
+            {
+                "parentOrgId": "ARM1601",
+                "name": "R178: Les Quatre Temps",
+                "value": "R178"
+            },
+            {
+                "parentOrgId": "ARM1301",
+                "name": "R180: Chadstone",
+                "value": "R180"
+            },
+            {
+                "parentOrgId": "ARM2208",
+                "name": "R182: FlatIron Crossing",
+                "value": "R182"
+            },
+            {
+                "parentOrgId": "ARM2201",
+                "name": "R183: Ridgedale",
+                "value": "R183"
+            },
+            {
+                "parentOrgId": "ARM0205",
+                "name": "R184: Perimeter",
+                "value": "R184"
+            },
+            {
+                "parentOrgId": "ARM0202",
+                "name": "R185: Coconut Point",
+                "value": "R185"
+            },
+            {
+                "parentOrgId": "ARM0104",
+                "name": "R186: Summit Sierra",
+                "value": "R186"
+            },
+            {
+                "parentOrgId": "ARM0909",
+                "name": "R189: Topanga",
+                "value": "R189"
+            },
+            {
+                "parentOrgId": "ARM2206",
+                "name": "R190: Village Pointe",
+                "value": "R190"
+            },
+            {
+                "parentOrgId": "ARM0311",
+                "name": "R191: Holyoke",
+                "value": "R191"
+            },
+            {
+                "parentOrgId": "ARM0701",
+                "name": "R192: Crocker Park",
+                "value": "R192"
+            },
+            {
+                "parentOrgId": "ARM1001",
+                "name": "R193: Sapporo",
+                "value": "R193"
+            },
+            {
+                "parentOrgId": "ARM0908",
+                "name": "R198: Royal Hawaiian",
+                "value": "R198"
+            },
+            {
+                "parentOrgId": "ARM0901",
+                "name": "R199: Higuera Street",
+                "value": "R199"
+            },
+            {
+                "parentOrgId": "ARM2104",
+                "name": "R202: Stamford",
+                "value": "R202"
+            },
+            {
+                "parentOrgId": "ARM0703",
+                "name": "R203: West Town Mall",
+                "value": "R203"
+            },
+            {
+                "parentOrgId": "ARM0408",
+                "name": "R204: Baybrook",
+                "value": "R204"
+            },
+            {
+                "parentOrgId": "ARM0405",
+                "name": "R205: First Colony Mall",
+                "value": "R205"
+            },
+            {
+                "parentOrgId": "ARM0307",
+                "name": "R206: Cherry Hill",
+                "value": "R206"
+            },
+            {
+                "parentOrgId": "ARM0602",
+                "name": "R207: Carrefour Laval",
+                "value": "R207"
+            },
+            {
+                "parentOrgId": "ARM0605",
+                "name": "R208: Sherway Gardens",
+                "value": "R208"
+            },
+            {
+                "parentOrgId": "ARM0604",
+                "name": "R209: Chinook Centre",
+                "value": "R209"
+            },
+            {
+                "parentOrgId": "ARM0908",
+                "name": "R210: Kahala",
+                "value": "R210"
+            },
+            {
+                "parentOrgId": "ARM0512",
+                "name": "R211: MacArthur Center",
+                "value": "R211"
+            },
+            {
+                "parentOrgId": "ARM0907",
+                "name": "R213: Otay Ranch",
+                "value": "R213"
+            },
+            {
+                "parentOrgId": "ARM0203",
+                "name": "R214: The Galleria",
+                "value": "R214"
+            },
+            {
+                "parentOrgId": "ARM1501",
+                "name": "R215: Manchester Arndale",
+                "value": "R215"
+            },
+            {
+                "parentOrgId": "ARM0402",
+                "name": "R216: The Domain",
+                "value": "R216"
+            },
+            {
+                "parentOrgId": "ARM0107",
+                "name": "R217: Chestnut Street",
+                "value": "R217"
+            },
+            {
+                "parentOrgId": "ARM0702",
+                "name": "R218: Partridge Creek",
+                "value": "R218"
+            },
+            {
+                "parentOrgId": "ARM2210",
+                "name": "R219: Town Square",
+                "value": "R219"
+            },
+            {
+                "parentOrgId": "ARM0506",
+                "name": "R221: Fair Oaks",
+                "value": "R221"
+            },
+            {
+                "parentOrgId": "ARM1001",
+                "name": "R224: Omotesando",
+                "value": "R224"
+            },
+            {
+                "parentOrgId": "ARM0205",
+                "name": "R225: The Summit",
+                "value": "R225"
+            },
+            {
+                "parentOrgId": "ARM2306",
+                "name": "R226: White City",
+                "value": "R226"
+            },
+            {
+                "parentOrgId": "ARM2302",
+                "name": "R227: Bentall Centre",
+                "value": "R227"
+            },
+            {
+                "parentOrgId": "ARM2209",
+                "name": "R228: Park Meadows",
+                "value": "R228"
+            },
+            {
+                "parentOrgId": "ARM2205",
+                "name": "R229: West Towne",
+                "value": "R229"
+            },
+            {
+                "parentOrgId": "ARM0702",
+                "name": "R230: Briarwood",
+                "value": "R230"
+            },
+            {
+                "parentOrgId": "ARM0107",
+                "name": "R231: Hillsdale",
+                "value": "R231"
+            },
+            {
+                "parentOrgId": "ARM0311",
+                "name": "R232: Natick Collection",
+                "value": "R232"
+            },
+            {
+                "parentOrgId": "ARM0403",
+                "name": "R233: Woodland Hills",
+                "value": "R233"
+            },
+            {
+                "parentOrgId": "ARM0501",
+                "name": "R234: Willow Grove Park",
+                "value": "R234"
+            },
+            {
+                "parentOrgId": "ARM0408",
+                "name": "R235: Lakeside Shopping Center",
+                "value": "R235"
+            },
+            {
+                "parentOrgId": "ARM0106",
+                "name": "R236: Fashion Fair",
+                "value": "R236"
+            },
+            {
+                "parentOrgId": "ARM2202",
+                "name": "R237: Orland Square Mall",
+                "value": "R237"
+            },
+            {
+                "parentOrgId": "ARM1305",
+                "name": "R238: Sydney",
+                "value": "R238"
+            },
+            {
+                "parentOrgId": "ARM1501",
+                "name": "R239: Liverpool",
+                "value": "R239"
+            },
+            {
+                "parentOrgId": "ARM0106",
+                "name": "R240: Los Gatos",
+                "value": "R240"
+            },
+            {
+                "parentOrgId": "ARM2301",
+                "name": "R242: Lakeside",
+                "value": "R242"
+            },
+            {
+                "parentOrgId": "ARM2301",
+                "name": "R244: Churchill Square",
+                "value": "R244"
+            },
+            {
+                "parentOrgId": "ARM2305",
+                "name": "R245: Covent Garden",
+                "value": "R245"
+            },
+            {
+                "parentOrgId": "ARM0409",
+                "name": "R247: Arrowhead",
+                "value": "R247"
+            },
+            {
+                "parentOrgId": "ARM0602",
+                "name": "R248: St Catherine St",
+                "value": "R248"
+            },
+            {
+                "parentOrgId": "ARM2105",
+                "name": "R250: West 14th Street",
+                "value": "R250"
+            },
+            {
+                "parentOrgId": "ARM2108",
+                "name": "R251: Upper West Side",
+                "value": "R251"
+            },
+            {
+                "parentOrgId": "ARM2303",
+                "name": "R252: Cabot Circus",
+                "value": "R252"
+            },
+            {
+                "parentOrgId": "ARM1303",
+                "name": "R253: Chatswood Chase",
+                "value": "R253"
+            },
+            {
+                "parentOrgId": "ARM1302",
+                "name": "R254: Bondi",
+                "value": "R254"
+            },
+            {
+                "parentOrgId": "ARM1502",
+                "name": "R255: Touchwood Centre",
+                "value": "R255"
+            },
+            {
+                "parentOrgId": "ARM2205",
+                "name": "R257: Bayshore",
+                "value": "R257"
+            },
+            {
+                "parentOrgId": "ARM2203",
+                "name": "R258: Deer Park",
+                "value": "R258"
+            },
+            {
+                "parentOrgId": "ARM0206",
+                "name": "R259: Mall of Georgia",
+                "value": "R259"
+            },
+            {
+                "parentOrgId": "ARM2104",
+                "name": "R261: Ridge Hill",
+                "value": "R261"
+            },
+            {
+                "parentOrgId": "ARM0109",
+                "name": "R262: Anchorage 5th Avenue Mall",
+                "value": "R262"
+            },
+            {
+                "parentOrgId": "ARM0408",
+                "name": "R263: Mall of Louisiana",
+                "value": "R263"
+            },
+            {
+                "parentOrgId": "ARM0705",
+                "name": "R264: Oxmoor",
+                "value": "R264"
+            },
+            {
+                "parentOrgId": "ARM0704",
+                "name": "R266: Bridge Street",
+                "value": "R266"
+            },
+            {
+                "parentOrgId": "ARM0401",
+                "name": "R267: SanTan Village",
+                "value": "R267"
+            },
+            {
+                "parentOrgId": "ARM1510",
+                "name": "R269: Milton Keynes",
+                "value": "R269"
+            },
+            {
+                "parentOrgId": "ARM1510",
+                "name": "R270: Grand Arcade",
+                "value": "R270"
+            },
+            {
+                "parentOrgId": "ARM0506",
+                "name": "R271: Reston",
+                "value": "R271"
+            },
+            {
+                "parentOrgId": "ARM2201",
+                "name": "R272: Uptown",
+                "value": "R272"
+            },
+            {
+                "parentOrgId": "ARM0606",
+                "name": "R273: West Edmonton",
+                "value": "R273"
+            },
+            {
+                "parentOrgId": "ARM2001",
+                "name": "R275: Rue de Rive",
+                "value": "R275"
+            },
+            {
+                "parentOrgId": "ARM1603",
+                "name": "R276: Carrousel du Louvre",
+                "value": "R276"
+            },
+            {
+                "parentOrgId": "ARM1604",
+                "name": "R277: Opera",
+                "value": "R277"
+            },
+            {
+                "parentOrgId": "ARM1703",
+                "name": "R278: Le Gru",
+                "value": "R278"
+            },
+            {
+                "parentOrgId": "ARM2303",
+                "name": "R279: Princesshay",
+                "value": "R279"
+            },
+            {
+                "parentOrgId": "ARM0603",
+                "name": "R280: Pacific Centre",
+                "value": "R280"
+            },
+            {
+                "parentOrgId": "ARM0309",
+                "name": "R281: Lehigh Valley",
+                "value": "R281"
+            },
+            {
+                "parentOrgId": "ARM2104",
+                "name": "R282: Greenwich Avenue",
+                "value": "R282"
+            },
+            {
+                "parentOrgId": "ARM2206",
+                "name": "R283: Leawood",
+                "value": "R283"
+            },
+            {
+                "parentOrgId": "ARM2202",
+                "name": "R284: Lincoln Park",
+                "value": "R284"
+            },
+            {
+                "parentOrgId": "ARM0904",
+                "name": "R285: North County",
+                "value": "R285"
+            },
+            {
+                "parentOrgId": "ARM0403",
+                "name": "R286: The Promenade at Chenal",
+                "value": "R286"
+            },
+            {
+                "parentOrgId": "ARM0504",
+                "name": "R287: Georgetown",
+                "value": "R287"
+            },
+            {
+                "parentOrgId": "ARM0703",
+                "name": "R288: Fayette Mall",
+                "value": "R288"
+            },
+            {
+                "parentOrgId": "ARM0202",
+                "name": "R289: Brandon",
+                "value": "R289"
+            },
+            {
+                "parentOrgId": "ARM0402",
+                "name": "R290: North Star",
+                "value": "R290"
+            },
+            {
+                "parentOrgId": "ARM0201",
+                "name": "R291: Altamonte",
+                "value": "R291"
+            },
+            {
+                "parentOrgId": "ARM0409",
+                "name": "R292: Scottsdale Quarter",
+                "value": "R292"
+            },
+            {
+                "parentOrgId": "ARM0502",
+                "name": "R293: Friendly Center",
+                "value": "R293"
+            },
+            {
+                "parentOrgId": "ARM0907",
+                "name": "R294: Carlsbad",
+                "value": "R294"
+            },
+            {
+                "parentOrgId": "ARM0904",
+                "name": "R297: El Paseo Village",
+                "value": "R297"
+            },
+            {
+                "parentOrgId": "ARM0104",
+                "name": "R298: Roseville",
+                "value": "R298"
+            },
+            {
+                "parentOrgId": "ARM0706",
+                "name": "R299: Franklin Park",
+                "value": "R299"
+            },
+            {
+                "parentOrgId": "ARM0906",
+                "name": "R300: Los Cerritos",
+                "value": "R300"
+            },
+            {
+                "parentOrgId": "ARM0604",
+                "name": "R301: Market Mall",
+                "value": "R301"
+            },
+            {
+                "parentOrgId": "ARM0404",
+                "name": "R302: Stonebriar",
+                "value": "R302"
+            },
+            {
+                "parentOrgId": "ARM0110",
+                "name": "R303: Boise Towne Square",
+                "value": "R303"
+            },
+            {
+                "parentOrgId": "ARM0505",
+                "name": "R304: Park City",
+                "value": "R304"
+            },
+            {
+                "parentOrgId": "ARM0106",
+                "name": "R305: Del Monte",
+                "value": "R305"
+            },
+            {
+                "parentOrgId": "ARM0305",
+                "name": "R307: Maine Mall",
+                "value": "R307"
+            },
+            {
+                "parentOrgId": "ARM1502",
+                "name": "R308: Highcross",
+                "value": "R308"
+            },
+            {
+                "parentOrgId": "ARM2001",
+                "name": "R309: Glattzentrum",
+                "value": "R309"
+            },
+            {
+                "parentOrgId": "ARM0204",
+                "name": "R312: Dadeland",
+                "value": "R312"
+            },
+            {
+                "parentOrgId": "ARM1501",
+                "name": "R313: Victoria Square",
+                "value": "R313"
+            },
+            {
+                "parentOrgId": "ARM1601",
+                "name": "R315: Velizy 2",
+                "value": "R315"
+            },
+            {
+                "parentOrgId": "ARM0403",
+                "name": "R316: University Park Village",
+                "value": "R316"
+            },
+            {
+                "parentOrgId": "ARM0901",
+                "name": "R317: State Street",
+                "value": "R317"
+            },
+            {
+                "parentOrgId": "ARM0508",
+                "name": "R318: King Street",
+                "value": "R318"
+            },
+            {
+                "parentOrgId": "ARM1402",
+                "name": "R320: Sanlitun",
+                "value": "R320"
+            },
+            {
+                "parentOrgId": "ARM0408",
+                "name": "R321: Willowbrook Mall",
+                "value": "R321"
+            },
+            {
+                "parentOrgId": "ARM0104",
+                "name": "R322: Vintage Faire",
+                "value": "R322"
+            },
+            {
+                "parentOrgId": "ARM0205",
+                "name": "R324: Renaissance at Colony Park",
+                "value": "R324"
+            },
+            {
+                "parentOrgId": "ARM0308",
+                "name": "R325: Willowbrook",
+                "value": "R325"
+            },
+            {
+                "parentOrgId": "ARM2103",
+                "name": "R327: Manhasset",
+                "value": "R327"
+            },
+            {
+                "parentOrgId": "ARM1504",
+                "name": "R328: Princes Street",
+                "value": "R328"
+            },
+            {
+                "parentOrgId": "ARM1803",
+                "name": "R331: Dusseldorf",
+                "value": "R331"
+            },
+            {
+                "parentOrgId": "ARM0602",
+                "name": "R332: Rideau",
+                "value": "R332"
+            },
+            {
+                "parentOrgId": "ARM0601",
+                "name": "R333: Fairview",
+                "value": "R333"
+            },
+            {
+                "parentOrgId": "ARM1502",
+                "name": "R334: St David's 2",
+                "value": "R334"
+            },
+            {
+                "parentOrgId": "ARM2303",
+                "name": "R335: SouthGate",
+                "value": "R335"
+            },
+            {
+                "parentOrgId": "ARM2209",
+                "name": "R338: Briargate",
+                "value": "R338"
+            },
+            {
+                "parentOrgId": "ARM0111",
+                "name": "R339: Tacoma Mall",
+                "value": "R339"
+            },
+            {
+                "parentOrgId": "ARM1504",
+                "name": "R340: Braehead",
+                "value": "R340"
+            },
+            {
+                "parentOrgId": "ARM1511",
+                "name": "R341: Eldon Square",
+                "value": "R341"
+            },
+            {
+                "parentOrgId": "ARM1301",
+                "name": "R342: Doncaster",
+                "value": "R342"
+            },
+            {
+                "parentOrgId": "ARM1301",
+                "name": "R343: Southland",
+                "value": "R343"
+            },
+            {
+                "parentOrgId": "ARM1303",
+                "name": "R344: Castle Towers",
+                "value": "R344"
+            },
+            {
+                "parentOrgId": "ARM0904",
+                "name": "R345: Promenade Temecula",
+                "value": "R345"
+            },
+            {
+                "parentOrgId": "ARM0301",
+                "name": "R346: Legacy Place",
+                "value": "R346"
+            },
+            {
+                "parentOrgId": "ARM2202",
+                "name": "R348: Main Place",
+                "value": "R348"
+            },
+            {
+                "parentOrgId": "ARM0605",
+                "name": "R350: Square One",
+                "value": "R350"
+            },
+            {
+                "parentOrgId": "ARM1304",
+                "name": "R351: Robina",
+                "value": "R351"
+            },
+            {
+                "parentOrgId": "ARM1803",
+                "name": "R352: Grosse Bockenheimer",
+                "value": "R352"
+            },
+            {
+                "parentOrgId": "ARM0706",
+                "name": "R353: Summit Mall",
+                "value": "R353"
+            },
+            {
+                "parentOrgId": "ARM0305",
+                "name": "R354: Pheasant Lane",
+                "value": "R354"
+            },
+            {
+                "parentOrgId": "ARM0508",
+                "name": "R355: Haywood Mall",
+                "value": "R355"
+            },
+            {
+                "parentOrgId": "ARM1602",
+                "name": "R357: Marseille",
+                "value": "R357"
+            },
+            {
+                "parentOrgId": "ARM1804",
+                "name": "R358: Kurfürstendamm",
+                "value": "R358"
+            },
+            {
+                "parentOrgId": "ARM2403",
+                "name": "R359: Nanjing East",
+                "value": "R359"
+            },
+            {
+                "parentOrgId": "ARM0705",
+                "name": "R360: University Park Mall",
+                "value": "R360"
+            },
+            {
+                "parentOrgId": "ARM0603",
+                "name": "R362: Oakridge Centre",
+                "value": "R362"
+            },
+            {
+                "parentOrgId": "ARM1504",
+                "name": "R363: Union Square",
+                "value": "R363"
+            },
+            {
+                "parentOrgId": "ARM0206",
+                "name": "R364: Augusta",
+                "value": "R364"
+            },
+            {
+                "parentOrgId": "ARM1703",
+                "name": "R365: Carosello",
+                "value": "R365"
+            },
+            {
+                "parentOrgId": "ARM1802",
+                "name": "R366: Alstertal",
+                "value": "R366"
+            },
+            {
+                "parentOrgId": "ARM1602",
+                "name": "R367: Odysseum",
+                "value": "R367"
+            },
+            {
+                "parentOrgId": "ARM2501",
+                "name": "R368: Passeig de Gracia",
+                "value": "R368"
+            },
+            {
+                "parentOrgId": "ARM0606",
+                "name": "R369: Polo Park",
+                "value": "R369"
+            },
+            {
+                "parentOrgId": "ARM1511",
+                "name": "R372: Trinity Leeds",
+                "value": "R372"
+            },
+            {
+                "parentOrgId": "ARM1606",
+                "name": "R373: Part-Dieu",
+                "value": "R373"
+            },
+            {
+                "parentOrgId": "ARM1601",
+                "name": "R374: Parly 2",
+                "value": "R374"
+            },
+            {
+                "parentOrgId": "ARM1605",
+                "name": "R376: Lille",
+                "value": "R376"
+            },
+            {
+                "parentOrgId": "ARM2502",
+                "name": "R377: Puerto Venecia",
+                "value": "R377"
+            },
+            {
+                "parentOrgId": "ARM1701",
+                "name": "R381: Porta Di Roma",
+                "value": "R381"
+            },
+            {
+                "parentOrgId": "ARM1304",
+                "name": "R384: Chermside",
+                "value": "R384"
+            },
+            {
+                "parentOrgId": "ARM1303",
+                "name": "R385: Charlestown",
+                "value": "R385"
+            },
+            {
+                "parentOrgId": "ARM1306",
+                "name": "R386: Perth City",
+                "value": "R386"
+            },
+            {
+                "parentOrgId": "ARM1403",
+                "name": "R388: Xidan Joy City",
+                "value": "R388"
+            },
+            {
+                "parentOrgId": "ARM2402",
+                "name": "R389: Pudong",
+                "value": "R389"
+            },
+            {
+                "parentOrgId": "ARM2401",
+                "name": "R390: Hong Kong Plaza",
+                "value": "R390"
+            },
+            {
+                "parentOrgId": "ARM1510",
+                "name": "R391: Chapelfield",
+                "value": "R391"
+            },
+            {
+                "parentOrgId": "ARM0609",
+                "name": "R392: Fairview Pointe Claire",
+                "value": "R392"
+            },
+            {
+                "parentOrgId": "ARM2303",
+                "name": "R393: Cribbs Causeway",
+                "value": "R393"
+            },
+            {
+                "parentOrgId": "ARM1606",
+                "name": "R394: Strasbourg",
+                "value": "R394"
+            },
+            {
+                "parentOrgId": "ARM1602",
+                "name": "R395: CAP 3000",
+                "value": "R395"
+            },
+            {
+                "parentOrgId": "ARM1802",
+                "name": "R396: Jungfernstieg",
+                "value": "R396"
+            },
+            {
+                "parentOrgId": "ARM2503",
+                "name": "R397: Xanadu",
+                "value": "R397"
+            },
+            {
+                "parentOrgId": "ARM2401",
+                "name": "R401: Shanghai iapm",
+                "value": "R401"
+            },
+            {
+                "parentOrgId": "ARM1803",
+                "name": "R403: CentrO",
+                "value": "R403"
+            },
+            {
+                "parentOrgId": "ARM1306",
+                "name": "R405: Rundle Place",
+                "value": "R405"
+            },
+            {
+                "parentOrgId": "ARM2502",
+                "name": "R406: La Maquinista",
+                "value": "R406"
+            },
+            {
+                "parentOrgId": "ARM1902",
+                "name": "R408: Amsterdam",
+                "value": "R408"
+            },
+            {
+                "parentOrgId": "ARM1201",
+                "name": "R409: Causeway Bay",
+                "value": "R409"
+            },
+            {
+                "parentOrgId": "ARM2306",
+                "name": "R410: Stratford City",
+                "value": "R410"
+            },
+            {
+                "parentOrgId": "ARM0606",
+                "name": "R411: Southgate Centre",
+                "value": "R411"
+            },
+            {
+                "parentOrgId": "ARM0609",
+                "name": "R412: Place Ste. Foy",
+                "value": "R412"
+            },
+            {
+                "parentOrgId": "ARM0701",
+                "name": "R413: Ross Park",
+                "value": "R413"
+            },
+            {
+                "parentOrgId": "ARM0105",
+                "name": "R414: 4th Street",
+                "value": "R414"
+            },
+            {
+                "parentOrgId": "ARM2109",
+                "name": "R415: Grand Central",
+                "value": "R415"
+            },
+            {
+                "parentOrgId": "ARM0706",
+                "name": "R417: Polaris Fashion Place",
+                "value": "R417"
+            },
+            {
+                "parentOrgId": "ARM1702",
+                "name": "R418: Oriocenter",
+                "value": "R418"
+            },
+            {
+                "parentOrgId": "ARM2502",
+                "name": "R419: Calle Colon",
+                "value": "R419"
+            },
+            {
+                "parentOrgId": "ARM0111",
+                "name": "R420: River Park Square",
+                "value": "R420"
+            },
+            {
+                "parentOrgId": "ARM0603",
+                "name": "R421: Richmond Centre",
+                "value": "R421"
+            },
+            {
+                "parentOrgId": "ARM1511",
+                "name": "R423: Metrocentre",
+                "value": "R423"
+            },
+            {
+                "parentOrgId": "ARM1602",
+                "name": "R424: Rue Saint Catherine",
+                "value": "R424"
+            },
+            {
+                "parentOrgId": "ARM1605",
+                "name": "R425: Val d'Europe",
+                "value": "R425"
+            },
+            {
+                "parentOrgId": "ARM1704",
+                "name": "R427: Via Rizzoli",
+                "value": "R427"
+            },
+            {
+                "parentOrgId": "ARM1201",
+                "name": "R428: ifc mall",
+                "value": "R428"
+            },
+            {
+                "parentOrgId": "ARM0601",
+                "name": "R429: Upper Canada Mall",
+                "value": "R429"
+            },
+            {
+                "parentOrgId": "ARM1804",
+                "name": "R430: Altmarkt-Galerie",
+                "value": "R430"
+            },
+            {
+                "parentOrgId": "ARM1801",
+                "name": "R431: City-Galerie",
+                "value": "R431"
+            },
+            {
+                "parentOrgId": "ARM1803",
+                "name": "R434: MTZ",
+                "value": "R434"
+            },
+            {
+                "parentOrgId": "ARM2503",
+                "name": "R435: Gran Plaza 2",
+                "value": "R435"
+            },
+            {
+                "parentOrgId": "ARM2503",
+                "name": "R436: Parquesur",
+                "value": "R436"
+            },
+            {
+                "parentOrgId": "ARM0405",
+                "name": "R437: Highland Village",
+                "value": "R437"
+            },
+            {
+                "parentOrgId": "ARM1605",
+                "name": "R438: Carre Senart",
+                "value": "R438"
+            },
+            {
+                "parentOrgId": "ARM2001",
+                "name": "R439: Freie Strasse",
+                "value": "R439"
+            },
+            {
+                "parentOrgId": "ARM1303",
+                "name": "R440: Penrith",
+                "value": "R440"
+            },
+            {
+                "parentOrgId": "ARM1703",
+                "name": "R441: Fiordaliso",
+                "value": "R441"
+            },
+            {
+                "parentOrgId": "ARM1703",
+                "name": "R442: Via Roma",
+                "value": "R442"
+            },
+            {
+                "parentOrgId": "ARM0304",
+                "name": "R446: New Haven",
+                "value": "R446"
+            },
+            {
+                "parentOrgId": "ARM0607",
+                "name": "R447: Mapleview Centre",
+                "value": "R447"
+            },
+            {
+                "parentOrgId": "ARM1401",
+                "name": "R448: Wangfujing",
+                "value": "R448"
+            },
+            {
+                "parentOrgId": "ARM1704",
+                "name": "R449: I Gigli",
+                "value": "R449"
+            },
+            {
+                "parentOrgId": "ARM2504",
+                "name": "R450: Puerta del Sol",
+                "value": "R450"
+            },
+            {
+                "parentOrgId": "ARM0902",
+                "name": "R451: The Americana at Brand",
+                "value": "R451"
+            },
+            {
+                "parentOrgId": "ARM1701",
+                "name": "R453: Campania",
+                "value": "R453"
+            },
+            {
+                "parentOrgId": "ARM1701",
+                "name": "R454: Centro Sicilia",
+                "value": "R454"
+            },
+            {
+                "parentOrgId": "ARM1802",
+                "name": "R455: Hannover",
+                "value": "R455"
+            },
+            {
+                "parentOrgId": "ARM1303",
+                "name": "R458: Hornsby",
+                "value": "R458"
+            },
+            {
+                "parentOrgId": "ARM0604",
+                "name": "R460: Metrotown",
+                "value": "R460"
+            },
+            {
+                "parentOrgId": "ARM2207",
+                "name": "R461: Fashion Place",
+                "value": "R461"
+            },
+            {
+                "parentOrgId": "ARM0902",
+                "name": "R462: Valencia Town Center",
+                "value": "R462"
+            },
+            {
+                "parentOrgId": "ARM0508",
+                "name": "R463: Northlake Mall",
+                "value": "R463"
+            },
+            {
+                "parentOrgId": "ARM0607",
+                "name": "R464: Conestoga",
+                "value": "R464"
+            },
+            {
+                "parentOrgId": "ARM1304",
+                "name": "R466: Brisbane",
+                "value": "R466"
+            },
+            {
+                "parentOrgId": "ARM2503",
+                "name": "R468: La Canada",
+                "value": "R468"
+            },
+            {
+                "parentOrgId": "ARM1606",
+                "name": "R469: Confluence",
+                "value": "R469"
+            },
+            {
+                "parentOrgId": "ARM1601",
+                "name": "R470: Atlantis",
+                "value": "R470"
+            },
+            {
+                "parentOrgId": "ARM2405",
+                "name": "R471: Westlake",
+                "value": "R471"
+            },
+            {
+                "parentOrgId": "ARM3403",
+                "name": "R476: Paradise Walk",
+                "value": "R476"
+            },
+            {
+                "parentOrgId": "ARM1602",
+                "name": "R477: Aix-en-Provence",
+                "value": "R477"
+            },
+            {
+                "parentOrgId": "ARM1405",
+                "name": "R478: Parkland",
+                "value": "R478"
+            },
+            {
+                "parentOrgId": "ARM1401",
+                "name": "R479: China Central Mall",
+                "value": "R479"
+            },
+            {
+                "parentOrgId": "ARM3403",
+                "name": "R480: Jiefangbei",
+                "value": "R480"
+            },
+            {
+                "parentOrgId": "ARM2302",
+                "name": "R482: Festival Place",
+                "value": "R482"
+            },
+            {
+                "parentOrgId": "ARM1302",
+                "name": "R483: Canberra",
+                "value": "R483"
+            },
+            {
+                "parentOrgId": "ARM3404",
+                "name": "R484: Holiday Plaza Shenzhen",
+                "value": "R484"
+            },
+            {
+                "parentOrgId": "ARM1201",
+                "name": "R485: Festival Walk",
+                "value": "R485"
+            },
+            {
+                "parentOrgId": "ARM2601",
+                "name": "R486: Brussels",
+                "value": "R486"
+            },
+            {
+                "parentOrgId": "ARM0604",
+                "name": "R488: Coquitlam Centre",
+                "value": "R488"
+            },
+            {
+                "parentOrgId": "ARM0607",
+                "name": "R489: Masonville",
+                "value": "R489"
+            },
+            {
+                "parentOrgId": "ARM0602",
+                "name": "R490: Bayshore Shopping Centre",
+                "value": "R490"
+            },
+            {
+                "parentOrgId": "ARM0402",
+                "name": "R492: Cielo Vista Mall",
+                "value": "R492"
+            },
+            {
+                "parentOrgId": "ARM2404",
+                "name": "R493: Nanjing IST",
+                "value": "R493"
+            },
+            {
+                "parentOrgId": "ARM2301",
+                "name": "R496: Bromley",
+                "value": "R496"
+            },
+            {
+                "parentOrgId": "ARM1201",
+                "name": "R499: Canton Road",
+                "value": "R499"
+            },
+            {
+                "parentOrgId": "ARM3401",
+                "name": "R502: MixC Chengdu",
+                "value": "R502"
+            },
+            {
+                "parentOrgId": "ARM2701",
+                "name": "R503: Emporia",
+                "value": "R503"
+            },
+            {
+                "parentOrgId": "ARM1301",
+                "name": "R504: Highpoint",
+                "value": "R504"
+            },
+            {
+                "parentOrgId": "ARM2701",
+                "name": "R505: Taby Centrum",
+                "value": "R505"
+            },
+            {
+                "parentOrgId": "ARM2502",
+                "name": "R507: Nueva Condomina",
+                "value": "R507"
+            },
+            {
+                "parentOrgId": "ARM1306",
+                "name": "R508: Garden City Perth",
+                "value": "R508"
+            },
+            {
+                "parentOrgId": "ARM1304",
+                "name": "R509: Carindale",
+                "value": "R509"
+            },
+            {
+                "parentOrgId": "ARM0609",
+                "name": "R512: DIX30",
+                "value": "R512"
+            },
+            {
+                "parentOrgId": "ARM0704",
+                "name": "R513: CoolSprings Galleria",
+                "value": "R513"
+            },
+            {
+                "parentOrgId": "ARM0609",
+                "name": "R514: Halifax Shopping Centre",
+                "value": "R514"
+            },
+            {
+                "parentOrgId": "ARM0601",
+                "name": "R515: Markville Shopping Centre",
+                "value": "R515"
+            },
+            {
+                "parentOrgId": "ARM0703",
+                "name": "R518: The Greene",
+                "value": "R518"
+            },
+            {
+                "parentOrgId": "ARM1801",
+                "name": "R519: Sindelfingen",
+                "value": "R519"
+            },
+            {
+                "parentOrgId": "ARM1803",
+                "name": "R520: Rhein Center",
+                "value": "R520"
+            },
+            {
+                "parentOrgId": "ARM1801",
+                "name": "R521: OEZ",
+                "value": "R521"
+            },
+            {
+                "parentOrgId": "ARM1606",
+                "name": "R522: La Toison d'Or",
+                "value": "R522"
+            },
+            {
+                "parentOrgId": "ARM1302",
+                "name": "R523: Broadway",
+                "value": "R523"
+            },
+            {
+                "parentOrgId": "ARM1510",
+                "name": "R527: Watford",
+                "value": "R527"
+            },
+            {
+                "parentOrgId": "ARM1301",
+                "name": "R530: Fountain Gate",
+                "value": "R530"
+            },
+            {
+                "parentOrgId": "ARM2405",
+                "name": "R532: MixC Hangzhou",
+                "value": "R532"
+            },
+            {
+                "parentOrgId": "ARM1405",
+                "name": "R534: Zhongjie Joy City",
+                "value": "R534"
+            },
+            {
+                "parentOrgId": "ARM1605",
+                "name": "R536: Rosny 2",
+                "value": "R536"
+            },
+            {
+                "parentOrgId": "ARM2503",
+                "name": "R538: Rio Shopping",
+                "value": "R538"
+            },
+            {
+                "parentOrgId": "ARM1902",
+                "name": "R539: Haarlem",
+                "value": "R539"
+            },
+            {
+                "parentOrgId": "ARM1902",
+                "name": "R540: Den Haag",
+                "value": "R540"
+            },
+            {
+                "parentOrgId": "ARM2303",
+                "name": "R545: Drake Circus",
+                "value": "R545"
+            },
+            {
+                "parentOrgId": "ARM1702",
+                "name": "R547: il Leone",
+                "value": "R547"
+            },
+            {
+                "parentOrgId": "ARM0307",
+                "name": "R549: Quaker Bridge",
+                "value": "R549"
+            },
+            {
+                "parentOrgId": "ARM0901",
+                "name": "R550: Valley Plaza",
+                "value": "R550"
+            },
+            {
+                "parentOrgId": "ARM1404",
+                "name": "R557: MixC Qingdao",
+                "value": "R557"
+            },
+            {
+                "parentOrgId": "ARM1701",
+                "name": "R562: Euroma 2",
+                "value": "R562"
+            },
+            {
+                "parentOrgId": "ARM1702",
+                "name": "R564: Le Befane",
+                "value": "R564"
+            },
+            {
+                "parentOrgId": "ARM2801",
+                "name": "R567: VillageMall",
+                "value": "R567"
+            },
+            {
+                "parentOrgId": "ARM3402",
+                "name": "R571: MixC Nanning",
+                "value": "R571"
+            },
+            {
+                "parentOrgId": "ARM1404",
+                "name": "R572: MixC Zhengzhou",
+                "value": "R572"
+            },
+            {
+                "parentOrgId": "ARM3403",
+                "name": "R573: MixC Chongqing",
+                "value": "R573"
+            },
+            {
+                "parentOrgId": "ARM2404",
+                "name": "R574: Center 66 Wuxi",
+                "value": "R574"
+            },
+            {
+                "parentOrgId": "ARM1405",
+                "name": "R576: MixC Shenyang",
+                "value": "R576"
+            },
+            {
+                "parentOrgId": "ARM3402",
+                "name": "R577: Parc Central",
+                "value": "R577"
+            },
+            {
+                "parentOrgId": "ARM1406",
+                "name": "R579: Riverside 66",
+                "value": "R579"
+            },
+            {
+                "parentOrgId": "ARM3401",
+                "name": "R580: Taikoo Li Chengdu",
+                "value": "R580"
+            },
+            {
+                "parentOrgId": "ARM2406",
+                "name": "R581: Wujiaochang",
+                "value": "R581"
+            },
+            {
+                "parentOrgId": "ARM2110",
+                "name": "R582: Upper East Side",
+                "value": "R582"
+            },
+            {
+                "parentOrgId": "ARM2901",
+                "name": "R583: Zorlu Center",
+                "value": "R583"
+            },
+            {
+                "parentOrgId": "ARM2901",
+                "name": "R588: Akasya",
+                "value": "R588"
+            },
+            {
+                "parentOrgId": "ARM0205",
+                "name": "R591: Cumberland Mall",
+                "value": "R591"
+            },
+            {
+                "parentOrgId": "ARM2701",
+                "name": "R593: Vala Centrum",
+                "value": "R593"
+            },
+            {
+                "parentOrgId": "ARM2111",
+                "name": "R594: Williamsburg",
+                "value": "R594"
+            },
+            {
+                "parentOrgId": "ARM3001",
+                "name": "R595: Yas Mall",
+                "value": "R595"
+            },
+            {
+                "parentOrgId": "ARM3001",
+                "name": "R596: Mall of the Emirates",
+                "value": "R596"
+            },
+            {
+                "parentOrgId": "ARM0506",
+                "name": "R598: Potomac Town Center",
+                "value": "R598"
+            },
+            {
+                "parentOrgId": "ARM2207",
+                "name": "R599: Station Park",
+                "value": "R599"
+            },
+            {
+                "parentOrgId": "ARM0604",
+                "name": "R601: Guildford Town Centre",
+                "value": "R601"
+            },
+            {
+                "parentOrgId": "ARM1704",
+                "name": "R602: Firenze",
+                "value": "R602"
+            },
+            {
+                "parentOrgId": "ARM1302",
+                "name": "R606: Miranda",
+                "value": "R606"
+            },
+            {
+                "parentOrgId": "ARM2801",
+                "name": "R608: Morumbi",
+                "value": "R608"
+            },
+            {
+                "parentOrgId": "ARM1405",
+                "name": "R609: Olympia 66 Dalian",
+                "value": "R609"
+            },
+            {
+                "parentOrgId": "ARM1201",
+                "name": "R610: New Town Plaza",
+                "value": "R610"
+            },
+            {
+                "parentOrgId": "ARM2103",
+                "name": "R612: Queens Center",
+                "value": "R612"
+            },
+            {
+                "parentOrgId": "ARM0304",
+                "name": "R613: Evergreen Walk",
+                "value": "R613"
+            },
+            {
+                "parentOrgId": "ARM0512",
+                "name": "R614: Lynnhaven",
+                "value": "R614"
+            },
+            {
+                "parentOrgId": "ARM0202",
+                "name": "R615: University Town Center",
+                "value": "R615"
+            },
+            {
+                "parentOrgId": "ARM0702",
+                "name": "R616: Eastwood Towne Center",
+                "value": "R616"
+            },
+            {
+                "parentOrgId": "ARM0311",
+                "name": "R622: Solomon Pond",
+                "value": "R622"
+            },
+            {
+                "parentOrgId": "ARM1702",
+                "name": "R625: Nave de Vero",
+                "value": "R625"
+            },
+            {
+                "parentOrgId": "ARM0304",
+                "name": "R629: Trumbull",
+                "value": "R629"
+            },
+            {
+                "parentOrgId": "ARM0305",
+                "name": "R631: Mall of New Hampshire",
+                "value": "R631"
+            },
+            {
+                "parentOrgId": "ARM1406",
+                "name": "R637: Tianjin Joy City",
+                "value": "R637"
+            },
+            {
+                "parentOrgId": "ARM1406",
+                "name": "R638: Galaxy Mall",
+                "value": "R638"
+            },
+            {
+                "parentOrgId": "ARM3402",
+                "name": "R639: Zhujiang New Town",
+                "value": "R639"
+            },
+            {
+                "parentOrgId": "ARM2404",
+                "name": "R643: Wonder City",
+                "value": "R643"
+            },
+            {
+                "parentOrgId": "ARM3404",
+                "name": "R644: Xiamen Lifestyle Center",
+                "value": "R644"
+            },
+            {
+                "parentOrgId": "ARM1401",
+                "name": "R645: Chaoyang Joy City",
+                "value": "R645"
+            },
+            {
+                "parentOrgId": "ARM3404",
+                "name": "R646: Thaihot Plaza",
+                "value": "R646"
+            },
+            {
+                "parentOrgId": "ARM1404",
+                "name": "R648: Parc 66 Jinan",
+                "value": "R648"
+            },
+            {
+                "parentOrgId": "ARM2210",
+                "name": "R650: Summerlin",
+                "value": "R650"
+            },
+            {
+                "parentOrgId": "ARM2112",
+                "name": "R654: World Trade Center",
+                "value": "R654"
+            },
+            {
+                "parentOrgId": "ARM1607",
+                "name": "R658: Galeries LaFayette",
+                "value": "R658"
+            },
+            {
+                "parentOrgId": "ARM2307",
+                "name": "R659: Selfridges",
+                "value": "R659"
+            },
+            {
+                "parentOrgId": "ARM1101",
+                "name": "R669: Corp Adj 669",
+                "value": "R669"
+            },
+            {
+                "parentOrgId": "ARM0801",
+                "name": "R672: Galaxy Macau",
+                "value": "R672"
+            },
+            {
+                "parentOrgId": "ARM1201",
+                "name": "R673: apm Hong Kong",
+                "value": "R673"
+            },
+            {
+                "parentOrgId": "ARM2406",
+                "name": "R683: Global Harbor",
+                "value": "R683"
+            },
+            {
+                "parentOrgId": "ARM3801",
+                "name": "R687: Kaerntner Strasse",
+                "value": "R687"
+            },
+            {
+                "parentOrgId": "ARM3301",
+                "name": "R692: Garosugil",
+                "value": "R692"
+            },
+            {
+                "parentOrgId": "ARM2406",
+                "name": "R705: Qibao",
+                "value": "R705"
+            },
+            {
+                "parentOrgId": "ARM3101",
+                "name": "R708: Via Santa Fe",
+                "value": "R708"
+            },
+            {
+                "parentOrgId": "ARM0101",
+                "name": "R902: Palo Alto IDL Remote",
+                "value": "R902"
+            },
+            {
+                "parentOrgId": "ARM8601",
+                "name": "R986: Corp Apple Store Beijing",
+                "value": "R986"
+            }
+        ],
+        "countries": [
+            {
+                "parentOrgId": "GC",
+                "name": "AR012: Hong Kong",
+                "value": "AR012"
+            },
+            {
+                "parentOrgId": "AMR",
+                "name": "AR056: United States",
+                "value": "AR056"
+            },
+            {
+                "parentOrgId": "AMR",
+                "name": "AR061: Canada",
+                "value": "AR061"
+            },
+            {
+                "parentOrgId": "RPAC",
+                "name": "AR064: Singapore",
+                "value": "AR064"
+            },
+            {
+                "parentOrgId": "RPAC",
+                "name": "AR082: Australia",
+                "value": "AR082"
+            },
+            {
+                "parentOrgId": "RPAC",
+                "name": "AR084: Japan",
+                "value": "AR084"
+            },
+            {
+                "parentOrgId": "AMR",
+                "name": "AR129: Brazil",
+                "value": "AR129"
+            },
+            {
+                "parentOrgId": "RPAC",
+                "name": "AR143: South Korea",
+                "value": "AR143"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR144: Belgium",
+                "value": "AR144"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR145: Sweden",
+                "value": "AR145"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR158: United Kingdom",
+                "value": "AR158"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR159: France",
+                "value": "AR159"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR160: Italy",
+                "value": "AR160"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR161: Germany",
+                "value": "AR161"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR162: Spain",
+                "value": "AR162"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR168: Netherlands",
+                "value": "AR168"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR169: Switzerland",
+                "value": "AR169"
+            },
+            {
+                "parentOrgId": "GC",
+                "name": "AR183: China",
+                "value": "AR183"
+            },
+            {
+                "parentOrgId": "AMR",
+                "name": "AR191: Mexico",
+                "value": "AR191"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR199: Turkey",
+                "value": "AR199"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR200: UAE",
+                "value": "AR200"
+            },
+            {
+                "parentOrgId": "GC",
+                "name": "AR208: Macau",
+                "value": "AR208"
+            },
+            {
+                "parentOrgId": "EMEA",
+                "name": "AR213: Austria",
+                "value": "AR213"
+            }
+        ],
+        "marketTeams": [
+            {
+                "parentOrgId": "AR056",
+                "name": "ARD01: Market Team 1",
+                "value": "ARD01"
+            },
+            {
+                "parentOrgId": "AR056",
+                "name": "ARD02: Market Team 2",
+                "value": "ARD02"
+            },
+            {
+                "parentOrgId": "AR056",
+                "name": "ARD03: Market Team 3",
+                "value": "ARD03"
+            },
+            {
+                "parentOrgId": "AR056",
+                "name": "ARD04: Market Team 4",
+                "value": "ARD04"
+            },
+            {
+                "parentOrgId": "AR056",
+                "name": "ARD05: Market Team 5",
+                "value": "ARD05"
+            },
+            {
+                "parentOrgId": "AR061",
+                "name": "ARD06: Canada Markets",
+                "value": "ARD06"
+            },
+            {
+                "parentOrgId": "AR056",
+                "name": "ARD07: Market Team 7",
+                "value": "ARD07"
+            },
+            {
+                "parentOrgId": "AR208",
+                "name": "ARD08: Macau Markets",
+                "value": "ARD08"
+            },
+            {
+                "parentOrgId": "AR056",
+                "name": "ARD09: Market Team 9",
+                "value": "ARD09"
+            },
+            {
+                "parentOrgId": "AR084",
+                "name": "ARD10: Japan Markets",
+                "value": "ARD10"
+            },
+            {
+                "parentOrgId": "AR064",
+                "name": "ARD11: Singapore Markets",
+                "value": "ARD11"
+            },
+            {
+                "parentOrgId": "AR012",
+                "name": "ARD12: Hong Kong Markets",
+                "value": "ARD12"
+            },
+            {
+                "parentOrgId": "AR082",
+                "name": "ARD13: Australia Markets",
+                "value": "ARD13"
+            },
+            {
+                "parentOrgId": "AR183",
+                "name": "ARD14: Northern China Markets",
+                "value": "ARD14"
+            },
+            {
+                "parentOrgId": "AR158",
+                "name": "ARD15: North UK Markets",
+                "value": "ARD15"
+            },
+            {
+                "parentOrgId": "AR159",
+                "name": "ARD16: France Markets",
+                "value": "ARD16"
+            },
+            {
+                "parentOrgId": "AR160",
+                "name": "ARD17: Italy Markets",
+                "value": "ARD17"
+            },
+            {
+                "parentOrgId": "AR161",
+                "name": "ARD18: Germany Markets",
+                "value": "ARD18"
+            },
+            {
+                "parentOrgId": "AR168",
+                "name": "ARD19: Netherlands Markets",
+                "value": "ARD19"
+            },
+            {
+                "parentOrgId": "AR169",
+                "name": "ARD20: Switzerland Markets",
+                "value": "ARD20"
+            },
+            {
+                "parentOrgId": "AR056",
+                "name": "ARD21: Market Team 21",
+                "value": "ARD21"
+            },
+            {
+                "parentOrgId": "AR056",
+                "name": "ARD22: Market Team 22",
+                "value": "ARD22"
+            },
+            {
+                "parentOrgId": "AR158",
+                "name": "ARD23: South UK Markets",
+                "value": "ARD23"
+            },
+            {
+                "parentOrgId": "AR183",
+                "name": "ARD24: Eastern China Markets",
+                "value": "ARD24"
+            },
+            {
+                "parentOrgId": "AR162",
+                "name": "ARD25: Spain Markets",
+                "value": "ARD25"
+            },
+            {
+                "parentOrgId": "AR144",
+                "name": "ARD26: Belgium Markets",
+                "value": "ARD26"
+            },
+            {
+                "parentOrgId": "AR145",
+                "name": "ARD27: Sweden Markets",
+                "value": "ARD27"
+            },
+            {
+                "parentOrgId": "AR129",
+                "name": "ARD28: Brazil Markets",
+                "value": "ARD28"
+            },
+            {
+                "parentOrgId": "AR199",
+                "name": "ARD29: Turkey Markets",
+                "value": "ARD29"
+            },
+            {
+                "parentOrgId": "AR200",
+                "name": "ARD30: UAE Markets",
+                "value": "ARD30"
+            },
+            {
+                "parentOrgId": "AR191",
+                "name": "ARD31: Mexico Markets",
+                "value": "ARD31"
+            },
+            {
+                "parentOrgId": "AR143",
+                "name": "ARD33: Korea Markets",
+                "value": "ARD33"
+            },
+            {
+                "parentOrgId": "AR183",
+                "name": "ARD34: Southern China Markets",
+                "value": "ARD34"
+            },
+            {
+                "parentOrgId": "AR213",
+                "name": "ARD38: Austria Markets",
+                "value": "ARD38"
+            },
+            {
+                "parentOrgId": "AR183",
+                "name": "ARD86: Corp Apple Store China 183",
+                "value": "ARD86"
+            }
+        ]
+    }
